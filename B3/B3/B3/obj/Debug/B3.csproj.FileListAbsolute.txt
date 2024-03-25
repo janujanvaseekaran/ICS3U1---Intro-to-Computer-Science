@@ -1,0 +1,5 @@
+D:\Projects\B3\B3\B3\bin\Debug\B3.exe.config
+D:\Projects\B3\B3\B3\bin\Debug\B3.exe
+D:\Projects\B3\B3\B3\bin\Debug\B3.pdb
+D:\Projects\B3\B3\B3\obj\Debug\B3.exe
+D:\Projects\B3\B3\B3\obj\Debug\B3.pdb
