@@ -1,0 +1,5 @@
+D:\Projects\B6\B6\B6\bin\Debug\B6.exe.config
+D:\Projects\B6\B6\B6\bin\Debug\B6.exe
+D:\Projects\B6\B6\B6\bin\Debug\B6.pdb
+D:\Projects\B6\B6\B6\obj\Debug\B6.exe
+D:\Projects\B6\B6\B6\obj\Debug\B6.pdb
