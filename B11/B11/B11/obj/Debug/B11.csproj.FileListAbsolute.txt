@@ -1,0 +1,5 @@
+D:\Projects\B11\B11\B11\bin\Debug\B11.exe.config
+D:\Projects\B11\B11\B11\bin\Debug\B11.exe
+D:\Projects\B11\B11\B11\bin\Debug\B11.pdb
+D:\Projects\B11\B11\B11\obj\Debug\B11.exe
+D:\Projects\B11\B11\B11\obj\Debug\B11.pdb
