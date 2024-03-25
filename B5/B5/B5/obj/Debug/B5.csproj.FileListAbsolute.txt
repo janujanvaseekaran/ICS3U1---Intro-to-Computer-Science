@@ -1,0 +1,6 @@
+D:\Projects\B5\B5\B5\bin\Debug\B5.exe.config
+D:\Projects\B5\B5\B5\bin\Debug\B5.exe
+D:\Projects\B5\B5\B5\bin\Debug\B5.pdb
+D:\Projects\B5\B5\B5\obj\Debug\B5.exe
+D:\Projects\B5\B5\B5\obj\Debug\B5.pdb
+D:\Projects\B5\B5\B5\obj\Debug\B5.csprojResolveAssemblyReference.cache
